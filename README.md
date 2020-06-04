@@ -9,5 +9,5 @@
 - phantomjs --version
 
 ## run
-- phanthomjs <namefile> <url>
+- phanthomjs namefile url
 
